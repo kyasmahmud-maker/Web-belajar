@@ -1,0 +1,27 @@
+.body{
+  background-color: #0f0e17;
+}
+.text{
+  width: 300px;
+  height: 50px;
+  border-radius: 12px;
+  color: #fffffe;
+  background: #ff8906;
+}
+.a{
+  width: 12px;
+  height: 10px;
+  background: #7C3AED;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fffffe;
+}
+.text-1{
+  color: #fffffe;
+}
+.text-2{
+  color: #fffffe;
+}
+.text-3{
+  color: #fffffe;
+}
